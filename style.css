@@ -1,3 +1,30 @@
+.my_container {
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+.name {
+    font-size: 45pt;
+}
+
+.col-8 {
+    left: 30px
+}
+
 .content {
-    color: greenyellow
+    margin-top: 30px;
+}
+
+ul {
+    list-style: none;
+    -webkit-padding-start: 0;
+    margin-top: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li>p {
+    margin-bottom: 0;
 }
